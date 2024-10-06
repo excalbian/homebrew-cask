@@ -21,7 +21,4 @@ cask "qgroundcontrol" do
     "~/Library/Saved Application State/org.qgroundcontrol.QGroundControl.savedState",
   ]
 
-  caveats do
-    requires_rosetta
-  end
 end
